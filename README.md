@@ -1,1 +1,1 @@
-My bad Solutions to usaco problems
+My bad Solutions to USACO problems
